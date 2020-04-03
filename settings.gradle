@@ -1,0 +1,2 @@
+rootProject.name='datatransfer'
+include ':app'

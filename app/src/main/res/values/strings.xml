@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">datatransfer</string>
+    <string name="introduzir_dados">Introduzir dados</string>
+    <string name="selecionar_o_pretendido">Selecionar o pretendido</string>
+    <string name="ler_os_dados">Ler os dados</string>
+    <string name="e_mail">e-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="idade">Idade</string>
+    <string name="nome">Nome</string>
+    <string name="peso">Peso</string>
+    <string name="kg">Kg</string>
+    <string name="altura">Altura</string>
+    <string name="cm">cm</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
